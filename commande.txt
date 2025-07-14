@@ -1,9 +1,0 @@
-python -m venv nom_de_l_env             # cree l'environement virtuel
-
-nom_de_l_env\Scripts\activate               # démarre l'environement
-
-deactivate               # arrete l'environement
-
-pip freeze > requirements.txt      # Cree un fichier requirements et liste les py installer
-
-git init                      # Initialise Git dans ton dossier (En gros met en place git au projet)
